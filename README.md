@@ -1,6 +1,6 @@
-### 🌱 I’m currently learning Android Development 
+### 🌱 I’m currently studying Android Development 
+### ✨ Interested in Android Dev, Gamehacking
 ### ⚡ While you're here, drop a follow? :-)
-### ✨ Currently interested in Android Dev, Gamehacking
 
 <!--
 **bwelboren/bwelboren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
